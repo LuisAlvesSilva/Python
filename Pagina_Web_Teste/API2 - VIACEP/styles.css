@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #ffffff; /* Cor de fundo do body */
+  }
+  
+  .info-box {
+    background-color: #ffffff; /* Cor de fundo da caixa */
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .botao{
+    background-color: #ffffff;
+  }
+
+  .caixa.placeholder{
+    font: #ff0000;
+  }
